@@ -3,6 +3,7 @@ interface Food {
   food: string;
   price: string;
   imageUrl: string;
+  description: string;
 }
 
 export async function Menu() {
@@ -24,11 +25,7 @@ export async function Menu() {
             alt={item.food}
           />
           <section className="flex-grow">
-            <p className="text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde
-              nemo, pariatur nostrum totam maxime vel porro exercitationem
-              tempora asperiores quae vero{" "}
-            </p>
+            <p className="text-justify">{item.description} </p>
           </section>
           <span className="text-orange-300 text-right">${item.price}</span>
         </div>

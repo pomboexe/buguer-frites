@@ -35,6 +35,33 @@
       "food": "x-cebola",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NLhBWhSSSdhH6LR2CcsyCf6WX9oLKrMgvg&s",
       "price": "12.00"
+    },
+    {
+      "id": "e5be",
+      "food": "Cerveja",
+      "price": "10",
+      "imageUrl": "https://guiadacervejabr.com/wp-content/uploads/2022/02/beers-g6c193c9ff_1280-e1645561241110.jpg"
+    },
+    {
+      "id": "64f5",
+      "food": "Bolo de Fubá",
+      "price": "20",
+      "imageUrl": "https://s2-receitas.glbimg.com/Yvl3B0-FybBiu026nqxfmv5derk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/Q/C/2DeqRTSI2oR5wVBFVVOw/delicious-cornmeal-cake-traditional-brazilian-cake.jpg",
+      "description": "3 ovos  2 xícaras (chá) de açúcar  2 xícaras (chá) de fubá  3 colheres (sopa) rasas de farinha de trigo  1/2 copo (americano) de óleo  1 copo de leite  1 colher (sopa) de fermento em pó  Bata todos os ingredientes no liquidificador.   Coloque em uma forma untada e enfarinhada.  Leve ao forno preaquecido e deixe assar, por cerca de 40 minutos."
+    },
+    {
+      "id": "f328",
+      "food": "Pão de Queijo",
+      "price": "0.75",
+      "imageUrl": "https://vovopalmirinha.com.br/wp-content/uploads/2019/06/pao-de-queijo.jpg",
+      "description": "Delicioso pão de queijo de padaria."
+    },
+    {
+      "id": "771e",
+      "food": "Tacacá",
+      "price": "30",
+      "imageUrl": "https://receitatodahora.com.br/wp-content/uploads/2024/10/receita-de-tacaca-2409-1024x683.jpg",
+      "description": "O tacacá é uma verdadeira joia da culinária amazônica, um abraço caloroso em forma de prato. Com seu aroma marcante e sabor único, combina a goma de mandioca com o tucupi, um caldo amarelo e encorpado extraído da mandioca-brava, trazendo um toque de intensidade. O jambu, com seu efeito levemente anestésico, proporciona uma experiência sensorial inesquecível, enquanto os camarões complementam a riqueza do prato com sua textura macia. Cada colherada é uma conexão com as raízes culturais da Amazônia, carregada de história e tradição. É mais do que uma refeição; é um momento de celebração da natureza e da cultura local. Servido quente, o tacacá é um alívio para as tardes chuvosas ou um convite para um encontro com amigos. Ele aquece o corpo, revigora a alma e transporta quem o saboreia para o coração da floresta. É, sem dúvidas, um orgulho nacional que encanta quem o prova!"
     }
   ]
 }

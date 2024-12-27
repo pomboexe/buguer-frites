@@ -19,3 +19,10 @@ body {
   background: var(--background);
   font-family: Ubuntu, sans-serif;
 }
+body img {
+  width: 15em;
+  height: 15em;
+}
+input {
+  color: var(--background)
+}
