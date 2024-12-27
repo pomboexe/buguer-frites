@@ -3,7 +3,7 @@ import { Menu } from "./components/menu";
 
 export default function Home() {
   return (
-    <div className="container mx-auto flex flex-col gap-5">
+    <div className="flex items-center justify-center min-h-screen container mx-auto">
       <Menu />
       <AddFood />
     </div>
