@@ -2,23 +2,39 @@
   "menu": [
     {
       "food": "burguer",
-      "price": "12",
+      "imageUrl": "https://guiadacozinha.com.br/wp-content/uploads/2024/05/x-burguer-tradicional-768x619.jpg",
+      "price": "12.00",
       "id": "85f5"
     },
     {
       "food": "frites",
-      "price": "5",
+      "imageUrl": "https://s2-receitas.glbimg.com/_GkYC8FQvE7JNZoILsLV7BvmD-I=/0x0:1000x750/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/t/d/W4TOLSQxAXiLig8w82IA/batata-frita-sequinha.jpg",
+      "price": "5.25",
       "id": "4c5b"
     },
     {
       "id": "907b",
+      "imageUrl": "https://img.cybercook.com.br/receitas/151/x-salada-3.jpeg",
       "food": "x-salada",
-      "price": "12"
+      "price": "12.00"
     },
     {
       "id": "eb76",
+      "imageUrl": "https://agron.com.br/wp-content/uploads/2021/03/post-image-57991",
       "food": "x-caboquinho",
-      "price": "15"
+      "price": "15.00"
+    },
+    {
+      "id": "c528",
+      "imageUrl": "https://conteudo.imguol.com.br/c/entretenimento/17/2023/05/24/x-tudo-brasileiro-tem-variedade-de-ingredientes-de-acordo-com-preferencias-regionais-aqui-versao-com-carne-bovina-tomato-salsicha-presunto-bacon-e-queijo-no-pao-1684938396547_v2_4x3.jpg",
+      "food": "x-tudo",
+      "price": "18.00"
+    },
+    {
+      "id": "85f5",
+      "food": "x-cebola",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NLhBWhSSSdhH6LR2CcsyCf6WX9oLKrMgvg&s",
+      "price": "12.00"
     }
   ]
 }
