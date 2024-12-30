@@ -62,6 +62,20 @@
       "price": "30",
       "imageUrl": "https://receitatodahora.com.br/wp-content/uploads/2024/10/receita-de-tacaca-2409-1024x683.jpg",
       "description": "O tacacá é uma verdadeira joia da culinária amazônica, um abraço caloroso em forma de prato. Com seu aroma marcante e sabor único, combina a goma de mandioca com o tucupi, um caldo amarelo e encorpado extraído da mandioca-brava, trazendo um toque de intensidade. O jambu, com seu efeito levemente anestésico, proporciona uma experiência sensorial inesquecível, enquanto os camarões complementam a riqueza do prato com sua textura macia. Cada colherada é uma conexão com as raízes culturais da Amazônia, carregada de história e tradição. É mais do que uma refeição; é um momento de celebração da natureza e da cultura local. Servido quente, o tacacá é um alívio para as tardes chuvosas ou um convite para um encontro com amigos. Ele aquece o corpo, revigora a alma e transporta quem o saboreia para o coração da floresta. É, sem dúvidas, um orgulho nacional que encanta quem o prova!"
+    },
+    {
+      "id": "c943",
+      "food": "hot dog",
+      "price": "13",
+      "imageUrl": "https://www.scuadra.com.br/blog/wp-content/uploads/2023/07/embalagem-para-hot-dog-em-papel.jpg",
+      "description": "Delicious Hot Dog with some sauce and tempero"
+    },
+    {
+      "id": "2ba3",
+      "food": "teste",
+      "price": "12",
+      "imageUrl": "https://www.scuadra.com.br/blog/wp-content/uploads/2023/07/embalagem-para-hot-dog-em-papel.jpg",
+      "description": "asdadadasdasd"
     }
   ]
 }

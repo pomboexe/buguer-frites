@@ -1,5 +1,5 @@
 import { revalidateTag } from "next/cache";
-import { AddFoodButton } from "./add-food-button";
+import ModalForm from "./modal-form";
 
 export function AddFood() {
   async function handleCreateFood(form: FormData) {
@@ -22,22 +22,23 @@ export function AddFood() {
   }
 
   return (
-    <form className="mb-4" action={handleCreateFood}>
-      <input
-        name="food"
-        placeholder="Nome da Comida"
-        className="mx-2"
-        type="text"
-      />
-      <input type="string" name="price" placeholder="Preço" className="mx-1" />
-      <input
-        type="text"
-        name="imageUrl"
-        placeholder="Url da Imagem"
-        className="mx-2"
-      ></input>
-      <textarea name="description" placeholder="descrição" className="mx-2" />
-      <AddFoodButton />
-    </form>
+    <ModalForm action={handleCreateFood} />
+    // <form className="mb-4" action={handleCreateFood}>
+    //   <input
+    //     name="food"
+    //     placeholder="Nome da Comida"
+    //     className="mx-2"
+    //     type="text"
+    //   />
+    //   <input type="string" name="price" placeholder="Preço" className="mx-1" />
+    //   <input
+    //     type="text"
+    //     name="imageUrl"
+    //     placeholder="Url da Imagem"
+    //     className="mx-2"
+    //   ></input>
+    //   <textarea name="description" placeholder="descrição" className="mx-2" />
+    //   <AddFoodButton />
+    // </form>
   );
 }

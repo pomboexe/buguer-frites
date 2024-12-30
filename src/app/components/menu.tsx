@@ -13,7 +13,6 @@ export async function Menu() {
     },
   });
   const data = await response.json();
-
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
       {data.map((item: Food) => (
