@@ -18,22 +18,28 @@ export async function Menu() {
       {data.map((item: Food) => (
         <div
           key={item.id}
-          className="rounded-none border-2 border-neutral-50 bg-slate-900"
+          className="rounded-none border-2 border-neutral-50 bg-slate-900 flex flex-col h-full"
         >
-          <div className="p-5 flex flex-col space-y-3 ">
+          <div className="p-5 flex flex-col space-y-3 flex-grow">
             <div className="rounded-xl overflow-hidden">
-              <img className="" src={item.imageUrl} alt={item.food} />
+              <img
+                className="w-full h-40 object-cover"
+                src={item.imageUrl}
+                alt={item.food}
+              />
             </div>
 
             <h2 className="text-1xl md:text-2xl font-medium mt-3">
               {item.food.toUpperCase()}
             </h2>
 
-            <p className="text-justify text-lg mt-3 line-clamp-4">
-              {item.description}{" "}
+            <p className="text-justify text-lg mt-3 line-clamp-4 flex-grow">
+              {item.description}
             </p>
+          </div>
 
-            <span className="text-orange-300 text-right font-medium">
+          <div className="p-5 mt-auto">
+            <span className="text-orange-300 text-right font-medium block">
               ${item.price}
             </span>
           </div>

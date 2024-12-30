@@ -4,78 +4,85 @@
       "food": "burguer",
       "imageUrl": "https://guiadacozinha.com.br/wp-content/uploads/2024/05/x-burguer-tradicional-768x619.jpg",
       "price": "12.00",
-      "id": "85f5"
+      "id": "85f5",
+      "description": "Um clássico hambúrguer suculento no pão macio, perfeito para qualquer momento."
     },
     {
       "food": "frites",
       "imageUrl": "https://s2-receitas.glbimg.com/_GkYC8FQvE7JNZoILsLV7BvmD-I=/0x0:1000x750/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/t/d/W4TOLSQxAXiLig8w82IA/batata-frita-sequinha.jpg",
       "price": "5.25",
-      "id": "4c5b"
+      "id": "4c5b",
+      "description": "Batatas fritas crocantes e douradas, ideais para acompanhar qualquer prato."
     },
     {
       "id": "907b",
       "imageUrl": "https://img.cybercook.com.br/receitas/151/x-salada-3.jpeg",
       "food": "x-salada",
-      "price": "12.00"
+      "price": "12.00",
+      "description": "X-salada fresquinho com alface crocante, tomate e uma deliciosa combinação de queijos e hambúrguer."
     },
     {
       "id": "eb76",
       "imageUrl": "https://agron.com.br/wp-content/uploads/2021/03/post-image-57991",
       "food": "x-caboquinho",
-      "price": "15.00"
+      "price": "15.00",
+      "description": "Uma delícia regional com queijo coalho, tucumã e hambúrguer, típico da Amazônia."
     },
     {
       "id": "c528",
       "imageUrl": "https://conteudo.imguol.com.br/c/entretenimento/17/2023/05/24/x-tudo-brasileiro-tem-variedade-de-ingredientes-de-acordo-com-preferencias-regionais-aqui-versao-com-carne-bovina-tomato-salsicha-presunto-bacon-e-queijo-no-pao-1684938396547_v2_4x3.jpg",
       "food": "x-tudo",
-      "price": "18.00"
+      "price": "18.00",
+      "description": "Um hambúrguer completo com tudo que você ama: bacon, ovo, presunto, e muito mais!"
     },
     {
       "id": "85f6",
       "food": "x-cebola",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NLhBWhSSSdhH6LR2CcsyCf6WX9oLKrMgvg&s",
-      "price": "12.00"
+      "price": "12.00",
+      "description": "X-burguer delicioso com uma generosa camada de cebolas caramelizadas."
     },
     {
       "id": "e5be",
       "food": "Cerveja",
       "price": "10",
-      "imageUrl": "https://guiadacervejabr.com/wp-content/uploads/2022/02/beers-g6c193c9ff_1280-e1645561241110.jpg"
+      "imageUrl": "https://guiadacervejabr.com/wp-content/uploads/2022/02/beers-g6c193c9ff_1280-e1645561241110.jpg",
+      "description": "Cerveja gelada e refrescante, perfeita para acompanhar sua refeição."
     },
     {
       "id": "64f5",
       "food": "Bolo de Fubá",
       "price": "20",
       "imageUrl": "https://s2-receitas.glbimg.com/Yvl3B0-FybBiu026nqxfmv5derk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/Q/C/2DeqRTSI2oR5wVBFVVOw/delicious-cornmeal-cake-traditional-brazilian-cake.jpg",
-      "description": "3 ovos  2 xícaras (chá) de açúcar  2 xícaras (chá) de fubá  3 colheres (sopa) rasas de farinha de trigo  1/2 copo (americano) de óleo  1 copo de leite  1 colher (sopa) de fermento em pó  Bata todos os ingredientes no liquidificador.   Coloque em uma forma untada e enfarinhada.  Leve ao forno preaquecido e deixe assar, por cerca de 40 minutos."
+      "description": "Bolo de fubá caseiro, macio e saboroso, ideal para acompanhar o café."
     },
     {
       "id": "f328",
       "food": "Pão de Queijo",
       "price": "0.75",
       "imageUrl": "https://vovopalmirinha.com.br/wp-content/uploads/2019/06/pao-de-queijo.jpg",
-      "description": "Delicioso pão de queijo de padaria."
+      "description": "Delicioso pão de queijo com textura macia por dentro e crocante por fora."
     },
     {
       "id": "771e",
       "food": "Tacacá",
       "price": "30",
       "imageUrl": "https://receitatodahora.com.br/wp-content/uploads/2024/10/receita-de-tacaca-2409-1024x683.jpg",
-      "description": "O tacacá é uma verdadeira joia da culinária amazônica, um abraço caloroso em forma de prato. Com seu aroma marcante e sabor único, combina a goma de mandioca com o tucupi, um caldo amarelo e encorpado extraído da mandioca-brava, trazendo um toque de intensidade. O jambu, com seu efeito levemente anestésico, proporciona uma experiência sensorial inesquecível, enquanto os camarões complementam a riqueza do prato com sua textura macia. Cada colherada é uma conexão com as raízes culturais da Amazônia, carregada de história e tradição. É mais do que uma refeição; é um momento de celebração da natureza e da cultura local. Servido quente, o tacacá é um alívio para as tardes chuvosas ou um convite para um encontro com amigos. Ele aquece o corpo, revigora a alma e transporta quem o saboreia para o coração da floresta. É, sem dúvidas, um orgulho nacional que encanta quem o prova!"
+      "description": "Prato típico amazônico com tucupi, goma de mandioca, jambu e camarões, rico em tradição."
     },
     {
       "id": "c943",
       "food": "hot dog",
       "price": "13",
       "imageUrl": "https://www.scuadra.com.br/blog/wp-content/uploads/2023/07/embalagem-para-hot-dog-em-papel.jpg",
-      "description": "Delicious Hot Dog with some sauce and tempero"
+      "description": "Hot Dog clássico com molhos especiais e temperos deliciosos."
     },
     {
       "id": "2ba3",
       "food": "teste",
       "price": "12",
       "imageUrl": "https://www.scuadra.com.br/blog/wp-content/uploads/2023/07/embalagem-para-hot-dog-em-papel.jpg",
-      "description": "asdadadasdasd"
+      "description": "Item de teste para o menu, sem descrição detalhada."
     }
-  ]
+]
 }
